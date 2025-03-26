@@ -10,9 +10,6 @@ This project involves building an **interactive Power BI Sales Dashboard** using
 - **Interactive Visualizations:** Implemented charts, slicers, and cards for better data representation.
 - **User-Friendly Report:** Designed for easy interpretation and decision-making by end-users.
 
-## 📊 Dashboard Preview
-![Dashboard Preview](path/to/your/image.png)
-
 ## 📁 Dataset
 The dataset used is the **Global Super Store Sales Data**, which contains details about orders, customers, products, and sales across different regions.
 
