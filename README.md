@@ -11,7 +11,7 @@ This project involves building an **interactive Power BI Sales Dashboard** using
 - **User-Friendly Report:** Designed for easy interpretation and decision-making by end-users.
 
 ## 📁 Dataset
-The dataset used is the **Global Super Store Sales Data**, which contains details about orders, customers, products, and sales across different regions.
+You can find the dataset used for this analysis [here](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset).
 
 ## 🔧 Tools & Technologies
 - **Power BI** (for dashboard creation)
